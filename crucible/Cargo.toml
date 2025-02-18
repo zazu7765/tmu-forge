@@ -1,0 +1,11 @@
+[package]
+name = "crucible"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.39"
+reqwest = "0.12.12"
+scraper = "0.22.0"
+serde = "1.0.217"
+thiserror = "2.0.11"
